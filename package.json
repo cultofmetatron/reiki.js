@@ -32,7 +32,7 @@
   "dependencies" : {
     "underscore": "*",
     "request": "*",
-    "engine.io": "*",
+    "socket.io": "*",
     "rx" : "*",
     "request": "*"
   },
@@ -42,8 +42,7 @@
     "should": "*",
     "phantomjs": "*",
     "mocha-phantomjs": "*",
-    "ws": "*",
-    "engine.io-client":"*"
+    "socket.io-client": "*"
   },
   "bundledDependencies": [
 
